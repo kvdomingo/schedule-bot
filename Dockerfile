@@ -8,6 +8,6 @@ RUN python -m pip install -U pip && pip install -r requirements.txt
 
 COPY . .
 
-EXPOSE 8080:80
+EXPOSE 8080
 
 CMD ["python", "main.py", "runbot"]
