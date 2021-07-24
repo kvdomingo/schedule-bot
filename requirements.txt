@@ -1,0 +1,4 @@
+click
+discord.py
+requests
+python-dotenv
